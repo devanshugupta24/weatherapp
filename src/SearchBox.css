@@ -1,0 +1,26 @@
+#city {
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    border:2px solid rgb(255, 255, 255);
+}
+
+#city:hover{
+    border:2px solid rgb(255, 255, 255);;
+}
+
+
+#click{
+    background-color: rgb(91, 180, 218);
+    transition: background-color 0.2s ease;
+    margin-top:10px;
+}
+
+#click:hover{
+    background-color:rgb(226, 90, 156);
+}
+
+.label{
+    color:rgb(238, 240, 242) !important;
+    
+}

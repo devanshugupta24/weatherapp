@@ -1,0 +1,16 @@
+
+#root{
+    
+    height:480px;
+    width:270px;
+    background-image:linear-gradient(to bottom right, rgb(58, 145, 160),rgb(252, 176, 188));
+    border-radius: 5px;
+    box-shadow:0px 0px 15px rgb(246, 244, 244);
+ }
+
+.heading{
+    margin-top:0;
+}
+
+
+/*rgb(58, 145, 160), rgb(252, 176, 188)*/
