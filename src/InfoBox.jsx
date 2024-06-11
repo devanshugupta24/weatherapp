@@ -70,7 +70,7 @@ export default function InfoBox({info}){
         
     <p className='infos'>
       Feels like {info.feelsLike}&deg;C <br></br>
-      Wind Speed={info.windSpeed}km/h &nbsp;&nbsp; Humidity={info.humidity}%
+      Wind Speed={info.windSpeed}km/h <br></br> Humidity={info.humidity}%
     </p>
         </div>
     );
